@@ -1,6 +1,6 @@
 # Auto Select Kuesioner pada Portal Akademik Universitas-Hasanuddin
 
-Melihat banyaknya mahasiswa Universitas Hasanuddin yang merasa dipersulit ketika diharuskan mengisi kuesioner yang cukup banyak jumlahnya sebelum dapat melihat hasil studinya, maka dibuatlah user script sederhana ini yang secara otomatis memilih dan menyetor jawaban kuesioner untuk user di Portal Akademik Universitas Hasanuddin yang wajib diisi tiap akhir semester oleh mahasiswa untuk dapat melihat hasil studinya.
+Melihat banyaknya mahasiswa Universitas Hasanuddin yang merasa dipersulit ketika diharuskan mengisi kuesioner yang cukup banyak jumlahnya sebelum dapat melihat hasil studinya di Portal Akademik, maka dibuatlah user script sederhana ini yang secara otomatis memilih dan menyetor jawaban kuesioner tersebut, sehingga mahasiswa tak perlu lagi susah-susah mengisi kuesioner.
 
 User script ini membutuhkan ekstensi:
 
