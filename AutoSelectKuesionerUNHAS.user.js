@@ -2,7 +2,7 @@
 // @name         Auto-Select Kuesioner untuk Portal Akademik Universitas Hasanuddin
 // @namespace    https://github.com/data4pass/
 // @version      0.1
-// @description  Automatically Answers Portal Akademik questionnaires for Universitas Hasanuddin students.
+// @description  Automatically Answers Portal Akademik questionnaires for Universitas Hasanuddin Students.
 // @author       data4pass
 // @match        https://*.unhas.ac.id/kuisioner/index.php/*
 // @grant        none
