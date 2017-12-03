@@ -2,7 +2,7 @@ Melihat banyaknya mahasiswa Universitas Hasanuddin yang merasa dipersulit ketika
 
 Sebelum dapat digunakan, browser anda harus memiliki ekstensi:
 
-* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) untuk Mozilla Firefox
+* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) atau [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) untuk Mozilla Firefox
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) untuk Google Chrome
 * [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) untuk Opera
 * [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz) untuk Safari
