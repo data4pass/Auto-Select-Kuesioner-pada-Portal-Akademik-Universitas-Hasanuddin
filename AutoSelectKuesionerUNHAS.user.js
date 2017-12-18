@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Auto-Select Kuesioner untuk Portal Akademik Universitas Hasanuddin
 // @namespace    https://github.com/data4pass/
-// @version      0.1
-// @description  Automatically Answers Portal Akademik questionnaires for Universitas Hasanuddin Students.
+// @version      3
+// @description  Automatically Answers Portal Akademik Questionnaires for Universitas Hasanuddin Students.
 // @author       data4pass
 // @match        https://*.unhas.ac.id/kuisioner/index.php/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
@@ -16,5 +17,5 @@
     	menu[i].selectedIndex = 3;
 	}
     
-    document.getElementsByClassName("btn btn-primary btn-lg pull-right")[0].click();
+    document.getElementsByClassName("col-lg-12 center btn btn-primary btn-lg")[0].click();
 })();
