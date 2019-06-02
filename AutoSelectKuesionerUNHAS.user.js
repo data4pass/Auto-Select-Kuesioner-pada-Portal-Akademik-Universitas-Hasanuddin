@@ -6,7 +6,7 @@
 // @author       data4pass
 // @match        https://*.unhas.ac.id/kuisioner/index.php/*
 // @grant        none
-// @license      MIT
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {
